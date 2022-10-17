@@ -1,2 +1,2 @@
 # ysncck.github.io
-personility site
+personality site
